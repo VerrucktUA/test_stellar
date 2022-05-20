@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ffa5646e-5b11-4a1f-97fd-35174c13de5b" name="prod" url="http://94.16.106.197">
+        <fileTransfer rootFolder="/stellartest.wp4.host/public" accessType="FTPS" host="94.16.106.197" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
